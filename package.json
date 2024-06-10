@@ -1,0 +1,19 @@
+{
+  "name": "express-todo-app",
+  "version": "1.0.0",
+  "description": "A simple ToDo application using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "express app",
+    "todo"
+  ],
+  "author": "React Tile & License",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
